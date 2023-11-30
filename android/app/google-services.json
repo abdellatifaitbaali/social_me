@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279807723073",
+    "project_id": "social-me-ee2ef",
+    "storage_bucket": "social-me-ee2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279807723073:android:6a0a855d2c498a0a4168c0",
+        "android_client_info": {
+          "package_name": "com.nexo.social_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279807723073-1vnq63ol33m5bk790pji8a54qt40nrik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvUELAXmV4oNAiliVKanrU55nIqG5cl3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279807723073-1vnq63ol33m5bk790pji8a54qt40nrik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

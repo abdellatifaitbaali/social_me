@@ -1,0 +1,69 @@
+{
+	"users":[
+		{
+			"uid": {
+				"uid": "",
+				"username": "",
+				"email": "",
+				"profilePictureUrl": "",
+				"bio": "",
+				"followers": ["uid"],
+				"following": ["uid"],
+				"groups": ["gid"]
+			}
+		}
+	],
+	"posts":[
+		{
+			"pid":{
+				"pid": "",
+				"uid": "",
+				"username": "",
+				"profilePictureUrl": "",
+				"postUrl": "",
+				"caption": "",
+				"publishDate": "",
+				"likes": ["uid"],
+				"comments": [
+					{
+						"commentId": {
+							"commentId": "",
+							"uid": "",
+							"username": "",
+							"profilePictureUrl": "",
+							"comment": "",
+							"likes": ["uid"],
+							"publishDate": ""
+						}
+					}
+				]
+			}
+		}
+	],
+	"Chatrooms":[
+		{
+			"ChatRoomId":{
+				"ChatRoomId":"",
+				"isRequestSent":"",
+				"lastMessage":"",
+				"lastMessageSenderId":"",
+				"lastMessageTime":"18/06/2023",
+				"unreadMessageCount":0,
+				"usersIds":["",""],
+				"users":[
+					{
+						"index":[
+							{
+								"uid":"",
+								"name":"",
+								"profileUrl":"",
+								"deletedAt":"18/06/2023",
+								"fcmToken":""
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}

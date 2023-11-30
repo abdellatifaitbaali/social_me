@@ -1,0 +1,37 @@
+name: apptex_chat
+description: This Package is for making the chat system more easy and user friendly. and control chat features within one click.
+version: 2.0.0
+homepage: https://github.com/apptexsolutions/apptex_chat
+
+environment:
+  sdk: ">=2.16.2 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+
+  # Firebase Dependencies
+  cloud_firestore:
+  firebase_storage:
+  ntp: 
+  cached_network_image: 
+  provider: 
+  audio_waveforms:
+  intl:
+  emoji_picker_flutter: 
+  image_picker:
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+ 
+flutter:
+
+
+false_secrets:
+  - /example/lib/firebase_options.dart
